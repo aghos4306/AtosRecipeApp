@@ -1,4 +1,4 @@
-package com.example.atosrecipeapp
+package com.example.atosrecipeapp.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
